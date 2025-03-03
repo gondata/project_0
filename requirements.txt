@@ -1,0 +1,2 @@
+pandas numpy statsmodels matplotlib seaborn yfinance pmdarima
+
