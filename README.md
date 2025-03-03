@@ -52,7 +52,7 @@ pip install pandas numpy statsmodels matplotlib seaborn yfinance pmdarima
 ## 📜 How to Run the Code
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/interest-rate-arima.git
+git clone https://github.com/gondata/interest-rate-arima.git
 ```
 2. Install dependencies:
 ```bash
