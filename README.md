@@ -52,7 +52,23 @@ pip install pandas numpy statsmodels matplotlib seaborn yfinance pmdarima
 ## 📜 How to Run the Code
 1. Clone this repository:
 ```bash
-git clone https://github.com/gondata/interest-rate-arima.git
+git clone https://github.com/yourusername/interest-rate-arima.git
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Run the Jupyter Notebook or Google Colab.
+
+## 📂 Required Files
+- `project_0.ipynb`: The main Jupyter Notebook containing the ARIMA model implementation.
+- `requirements.txt`: List of dependencies needed to run the notebook.
+
+## 🔗 Open in Google Colab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/interest-rate-arima/blob/main/project_0.ipynb)
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/interest-rate-arima.git
 ```
 2. Install dependencies:
 ```bash
@@ -61,9 +77,8 @@ pip install -r requirements.txt
 3. Run the Jupyter Notebook or Google Colab.
 
 ## 💡 Author
-**Gonzalo Noblega** - Data Scientist & Financial Modeling Enthusiast
+**[Your Name]** - Data Scientist & Financial Modeling Enthusiast
 
 ---
 📌 **If you find this project useful, feel free to ⭐ the repository!** 🚀
-
 
