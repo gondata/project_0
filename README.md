@@ -68,7 +68,7 @@ pip install -r requirements.txt
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/interest-rate-arima/blob/main/project_0.ipynb)
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/interest-rate-arima.git
+git clone https://github.com/gondata/interest-rate-arima.git
 ```
 2. Install dependencies:
 ```bash
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 3. Run the Jupyter Notebook or Google Colab.
 
 ## 💡 Author
-**[Your Name]** - Data Scientist & Financial Modeling Enthusiast
+**Gonzalo Noblega** - Data Scientist & Financial Modeling Enthusiast
 
 ---
 📌 **If you find this project useful, feel free to ⭐ the repository!** 🚀
